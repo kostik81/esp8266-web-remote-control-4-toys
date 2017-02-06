@@ -1,6 +1,7 @@
 # esp8266-web-remote-control-4-toys
-Wifi web-based remote control for toys
-Use all possibilities from mobile phone browser to control toys and other DIY devices.
+Wifi web-based remote control for toys.
+
+Use all possibilities from mobile browser to control toys and other DIY devices.
 Example App to control toy-car with accelerometer from mobile browser.
 (will be updated soon)
 
